@@ -1,0 +1,26 @@
+body {
+    background-color: #ccc;
+}
+
+.swiper {
+    height: 500px;
+    width: 1200px;
+
+    .swiper-slide {
+        background-color: #938787;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+            width: 1000px;
+            height: 450px;
+        }
+    }
+}
+
+.text {
+    text-align: center;
+    font-size: 48px;
+    color: ;
+}
